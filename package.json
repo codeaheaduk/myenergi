@@ -1,0 +1,29 @@
+{
+  "name": "myenergi",
+  "version": "1.0.0",
+  "author": "Peter Costello",
+  "license": "ISC",
+  "description": "myEnergi eddie API request.",
+  "homepage": "https://github.com/codeaheaduk/myenergi#readme",
+  "main": "src/index.js",
+  "contributors": [
+    {
+      "name": "twonk",
+      "url": "https://github.com/twonk"
+    }
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/codeaheaduk/myenergi.git"
+  },
+  "bugs": {
+    "url": "https://github.com/codeaheaduk/myenergi/issues"
+  },
+  "dependencies": {
+    "colors": "^1.4.0",
+    "digest-fetch": "^1.1.1"
+  }
+}
