@@ -1,10 +1,10 @@
-#MyEnergi-App-Api
+# MyEnergi-App-Api
 
 Thanks for twonk https://github.com/twonk/MyEnergi-App-Api for the details on the API.
 
 The first version of this just returns the usage data from the Eddie... to be updated with more features.
 
-##Eddie Data
+## Eddie Data
 
 Import the package and create a new object with the serial number of the hub along with password.
 
